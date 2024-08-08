@@ -1,2 +1,7 @@
-# Portfolio-Flock
-Flock of a portfolio that I find interesting. 
+# Teresa's Portfolio
+## Portfolio Flock
+
+('https://www.gianlucagalota.dev/')
+
+
+A portfolio that I find interesting. 
