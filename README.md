@@ -1,7 +1,7 @@
-# Teresa's Portfolio
+# 👩‍💻 Portfolio's Ideas 💡
 ## Portfolio Flock
 
-('https://www.gianlucagalota.dev/')
+('https://www.gianlucagalota.dev/') 
 
 
-A portfolio that I find interesting. 
+Portfolios that I like. 
